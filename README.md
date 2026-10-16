@@ -33,5 +33,4 @@ I work across product UI, APIs, databases, background processing, and deployment
 
 - [All repositories](https://github.com/Scarlet-Twinz?tab=repositories)
 - [GitHub Pages portfolio](https://scarlet-twinz.github.io/Scarlet-Twinz/)
-- [LinkedIn](https://www.linkedin.com/) — search for my professional profile
 
