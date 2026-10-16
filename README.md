@@ -33,4 +33,5 @@ I work across product UI, APIs, databases, background processing, and deployment
 
 - [All repositories](https://github.com/Scarlet-Twinz?tab=repositories)
 - [GitHub Pages portfolio](https://scarlet-twinz.github.io/Scarlet-Twinz/)
+- [LinkedIn](https://www.linkedin.com/in/anthony-emmanuella-mmasinachi-a515543b1)
 
